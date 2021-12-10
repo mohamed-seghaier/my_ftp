@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2019
 ** my_strtab.c
 ** File description:
-** jarrive plus a refaire cette fct, je l'ai donc repris de mes projets tek1
+** oui
 */
 
 #include  "../include/my.h"

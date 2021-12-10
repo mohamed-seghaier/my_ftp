@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2019
 ** parcing
 ** File description:
-** je meurs
+** oui
 */
 
 #include "../include/my.h"

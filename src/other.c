@@ -1,8 +1,8 @@
 /*
 ** EPITECH PROJECT, 2019
-** jul.C
+** other.C
 ** File description:
-** je suis fatigueeee
+** other
 */
 
 #include "../include/my.h"
